@@ -28,16 +28,16 @@
   📎 [top_10_products.pdf](https://github.com/Abhishek-alp/Excel-Sales-Analytics/blob/main/top_10_products.pdf)
 
 * **Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.**
-  📎 [Link to Report]()
+  📎 [division.pdf](https://github.com/Abhishek-alp/Excel-Sales-Analytics/blob/main/division.pdf)
 
 * **Which products are ranked in the top 5 and bottom 5 in terms of quantity sold?**
-  📎 [Link to Report]()
+  📎 [top_and_bottom_5(QTY)](https://github.com/Abhishek-alp/Excel-Sales-Analytics/blob/main/top_and_bottom_5(QTY).pdf)
 
 * **What are the new products that Atliq began selling in 2021?**
-  📎 [Link to Report]()
+  📎 [new_products_2021](https://github.com/Abhishek-alp/Excel-Sales-Analytics/blob/main/new_products_2021.pdf)
 
 * **What are the top 5 countries in terms of net sales in 2021?**
-  📎 [Link to Report]()
+  📎 [top_5_countries_21](https://github.com/Abhishek-alp/Excel-Sales-Analytics/blob/main/top_5_countries_21.pdf)
 
 ---
 
@@ -61,5 +61,3 @@
 * [x] Business acumen: Converting results into insights like “growth leaders,” “new product success,” and “priority markets.”
 * [x] Attention to detail: Ensuring DAX logic and report filters are accurate to maintain data reliability.
 * [x] Communication: Presenting findings in clear, stakeholder-friendly reports.
-
-Do you also want me to go back and **add similar placeholders for file links in Projects 1 & 2** so all three projects look consistent?
