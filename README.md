@@ -24,30 +24,20 @@
 
 ## Stakeholder Questions Answered:
 
-**Q1. What is the percentage increase in net sales from 2020 to 2021?**
-✔ **Answer:** Calculated using DAX with `DIVIDE()` + `CALCULATE()` to compare yearly sales.
-➡ **Insight:** Showed which products and markets contributed most to sales growth.
-📎 [Attach Report Link Here]
+* **What are the top 10 products based on the percentage increase in their net sales from 2020 to 2021?**
+  📎 [Link to Report]()
 
-**Q2. Which products are top and bottom performers in terms of sales and growth?**
-✔ **Answer:** Identified using ranking logic with DAX measures.
-➡ **Insight:** Enabled targeted strategies for promotions (top performers) and re-evaluation (underperformers).
-📎 [Attach Report Link Here]
+* **Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.**
+  📎 [Link to Report]()
 
-**Q3. Which products were newly introduced in 2021?**
-✔ **Answer:** Detected by filtering products with 0% growth in 2020 vs sales in 2021.
-➡ **Insight:** Provided visibility into new launches and their market impact.
-📎 [Attach Report Link Here]
+* **Which products are ranked in the top 5 and bottom 5 in terms of quantity sold?**
+  📎 [Link to Report]()
 
-**Q4. What are the top 5 countries by net sales?**
-✔ **Answer:** Extracted via Pivot Table filtering and DAX aggregation.
-➡ **Insight:** Informed international sales strategies and priority market focus.
-📎 [Attach Report Link Here]
+* **What are the new products that Atliq began selling in 2021?**
+  📎 [Link to Report]()
 
-**Q5. Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.**
-✔ **Answer:** Built using DAX measures and Pivot Tables to compare net sales by division across years.
-➡ **Insight:** Helped stakeholders see which divisions were growing faster and where corrective actions were needed.
-📎 [Attach Report Link Here]
+* **What are the top 5 countries in terms of net sales in 2021?**
+  📎 [Link to Report]()
 
 ---
 
@@ -71,3 +61,5 @@
 * [x] Business acumen: Converting results into insights like “growth leaders,” “new product success,” and “priority markets.”
 * [x] Attention to detail: Ensuring DAX logic and report filters are accurate to maintain data reliability.
 * [x] Communication: Presenting findings in clear, stakeholder-friendly reports.
+
+Do you also want me to go back and **add similar placeholders for file links in Projects 1 & 2** so all three projects look consistent?
