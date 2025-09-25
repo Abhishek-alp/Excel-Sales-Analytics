@@ -25,7 +25,7 @@
 ## Stakeholder Questions Answered:
 
 * **What are the top 10 products based on the percentage increase in their net sales from 2020 to 2021?**
-  📎 [Link to Report]()
+  📎 [top_10_products.pdf](https://github.com/Abhishek-alp/Excel-Sales-Analytics/blob/main/top_10_products.pdf)
 
 * **Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.**
   📎 [Link to Report]()
